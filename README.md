@@ -13,7 +13,7 @@ La definición es la ecuación (3.1a) del PDF compartido:
 G(f)=\int_{-\infty}^{\infty}g(t)e^{-j2\pi ft}\,dt.
 \]
 
-Esta convención, con frecuencia en Hz, **ya coincide con la de SymPy**.
+Esta convención, con frecuencia expresada en Hz, coincide con la de SymPy.
 La extensión añade pares distribucionales y reglas operacionales. No modifica
 la instalación de SymPy. `FourierTransf` hereda de `FourierTransform` y conserva
 su representación simbólica y su integral definitoria.
