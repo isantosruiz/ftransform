@@ -9,9 +9,9 @@ FourierTransf(g, t, f)           # conserva la operación sin evaluar
 
 La definición es la ecuación (3.1a) del PDF compartido:
 
-\[
+```math
 G(f)=\int_{-\infty}^{\infty}g(t)e^{-j2\pi ft}\,dt.
-\]
+```
 
 Esta convención, con frecuencia expresada en Hz, coincide con la de SymPy.
 La extensión añade pares distribucionales y reglas operacionales. No modifica
