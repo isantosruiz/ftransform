@@ -215,6 +215,6 @@ Las pruebas contrastan los 22 pares, propiedades y composiciones, escalas
 negativas, fases, condiciones, singularidades y la interfaz simbólica. Incluyen
 comparaciones independientes con integrales de señales regulares.
 
-- B. P. Lathi, material compartido `fourier_transf.pdf`, capítulo 3, páginas
+- Lathi, B. P. & Ding, Zhi. (2019). *Modern digital and analog communication systems*, capítulo 3, páginas
   impresas 93–123; ecuaciones (3.1a), (3.9), tablas 3.1 y 3.2.
 - [Documentación oficial de transformadas de SymPy](https://docs.sympy.org/latest/modules/integrals/integrals.html#integral-transforms).
