@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fourier-transf-lathi"
+version = "0.1.0"
+description = "Distributional Fourier transforms and Lathi operational rules for SymPy"
+requires-python = ">=3.10"
+dependencies = ["sympy>=1.13,<2"]
+
+[tool.setuptools]
+py-modules = ["fourier_transf"]
